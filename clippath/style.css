@@ -30,14 +30,15 @@ body,html{
 .logo{
     width: 40%;
     text-align: center;
-    border: 2px solid white;
+    /* border: 2px solid white; */
 }
 #l{
     background-color: white;
 
 }
 #span{
-
+    font-size: 30px;
+    color: white;
 }
 .nav a{
    text-decoration: none; 
