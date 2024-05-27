@@ -14,7 +14,7 @@
 
     height: 400px;
     width: 1000px;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.486), rgba(0, 0, 0, 0.486), rgba(0, 0, 0, 0.486)), url(./wave-genrate-bg-image.png);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.486), rgba(0, 0, 0, 0.486), rgba(0, 0, 0, 0.486)), url(./backgroundimage.png);
     background-size: cover;
     background-position: center;
     position: relative;
